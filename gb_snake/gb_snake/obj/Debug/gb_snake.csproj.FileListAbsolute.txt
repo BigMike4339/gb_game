@@ -1,0 +1,7 @@
+C:\Users\Mike\Documents\github\gb_snake\gb_snake\gb_snake\obj\Debug\gb_snake.csprojResolveAssemblyReference.cache
+C:\Users\Mike\Documents\github\gb_snake\gb_snake\gb_snake\obj\Debug\gb_snake.csproj.CoreCompileInputs.cache
+C:\Users\Mike\Documents\github\gb_snake\gb_snake\gb_snake\bin\Debug\gb_snake.exe.config
+C:\Users\Mike\Documents\github\gb_snake\gb_snake\gb_snake\bin\Debug\gb_snake.exe
+C:\Users\Mike\Documents\github\gb_snake\gb_snake\gb_snake\bin\Debug\gb_snake.pdb
+C:\Users\Mike\Documents\github\gb_snake\gb_snake\gb_snake\obj\Debug\gb_snake.exe
+C:\Users\Mike\Documents\github\gb_snake\gb_snake\gb_snake\obj\Debug\gb_snake.pdb
